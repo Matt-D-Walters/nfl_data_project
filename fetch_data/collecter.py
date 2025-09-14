@@ -1,4 +1,4 @@
-import nfl_data_py as nfl
+import nflreadpy as nfl
 import pandas as pd
 
 def pull_pbp_data(years: list[int]) -> pd.DataFrame:
